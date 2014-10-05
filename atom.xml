@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Joe Burgess]]></title>
+  <link href="http://jmburges.github.io/joemburgess/atom.xml" rel="self"/>
+  <link href="http://jmburges.github.io/joemburgess/"/>
+  <updated>2014-10-05T14:09:20-04:00</updated>
+  <id>http://jmburges.github.io/joemburgess/</id>
+  <author>
+    <name><![CDATA[Joe Burgess]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[A Dive Into Xcode Test Logs]]></title>
+    <link href="http://jmburges.github.io/joemburgess/blog/2014/10/05/a-dive-into-xcode-test-logs/"/>
+    <updated>2014-10-05T14:06:07-04:00</updated>
+    <id>http://jmburges.github.io/joemburgess/blog/2014/10/05/a-dive-into-xcode-test-logs</id>
+    <content type="html"><![CDATA[<h1>This is a test</h1>
+
+<p>asokdfj aowiefj aoisfj aoiwejf oa;iwfj ao;iwfj aowiefj aoiwefj aow;ifj a;owiefj
+aweoi asiofj aowifj awoiefj awefjaw eofijawe foiawef
+aweoifja weofijawe f</p>
+
+<p>awoefijaw eofijawe oifjaw eofijawef oi
+awoiefj aoiwefj awef</p>
+
+<h2>aiowefja</h2>
+
+<p>faoiwjefoi awjef oiawejf oaiwefj oaiwejf oiawefj aoi;wfj o;iawfj aoiwejf aoiwfj oai;wefj awo;iefj aweo;ifj aweofi;j awefio;ja wfo;iaefjw</p>
+]]></content>
+  </entry>
+  
+</feed>

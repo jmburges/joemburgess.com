@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://jmburges.github.io/joemburgess/sitemap.xml 
